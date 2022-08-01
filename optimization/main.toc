@@ -9,3 +9,4 @@
 \contentsline {section}{\numberline {6} Quadratic Programming }{7}{section.6}%
 \contentsline {section}{\numberline {7}Semi-definite Programming}{8}{section.7}%
 \contentsline {section}{\numberline {8} Linear Programming }{9}{section.8}%
+\contentsline {section}{\numberline {9} Geometric Programming }{12}{section.9}%
