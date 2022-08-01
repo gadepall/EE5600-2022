@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Definition}{1}{section.1}%
+\contentsline {section}{\numberline {2}Convex Function}{2}{section.2}%
+\contentsline {section}{\numberline {3} Gradient Descent }{2}{section.3}%
+\contentsline {section}{\numberline {4} Lagrange Multipliers }{3}{section.4}%
+\contentsline {section}{\numberline {5}KKT Conditions}{4}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Equality Constraints}{4}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Inequality Constraints}{4}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Karush Kuhn-Tucker Conditions}{6}{subsection.5.3}%
+\contentsline {section}{\numberline {6} Quadratic Programming }{7}{section.6}%
+\contentsline {section}{\numberline {7}Semi-definite Programming}{8}{section.7}%
+\contentsline {section}{\numberline {8} Linear Programming }{9}{section.8}%
